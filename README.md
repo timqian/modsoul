@@ -8,6 +8,10 @@
 
 ## 视频
 
+[![](https://user-images.githubusercontent.com/5512552/181723327-62b8006b-89cb-4d14-aaa7-7ab8c730d511.png)](https://www.bilibili.com/video/BV1nG411h7pE)
+
 ## 电路说明
+
+
 
 ## 脚本说明
