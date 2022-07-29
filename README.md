@@ -13,12 +13,13 @@ https://www.bilibili.com/video/BV1nG411h7pE
 ## 电路说明
 
 八个舵机，依次接再 Arduino 的2到9号引脚
+
 ![IMG_4131](https://user-images.githubusercontent.com/5512552/181725992-056d72ce-91d4-44ec-a094-42392d7d586a.jpg)
 
 ## 脚本说明
 
 还在整理，目前仅为自己参考所用。
 
-- [./notes.js](./notes.js) [./chords.js](./chords.js)：帮助把乐谱转换成舵机操作代码
-- [./fen_fen_zhong.ino](./fen_fen_zhong.ino): 弹奏“分分钟需要你”
-- [./two_tigers.ino](./two_tigers.ino): 弹奏“两只老虎”
+- [notes.js](./notes.js) [chords.js](./chords.js)：帮助把乐谱转换成舵机操作代码
+- [fen_fen_zhong.ino](./fen_fen_zhong.ino): 弹奏“分分钟需要你”
+- [two_tigers.ino](./two_tigers.ino): 弹奏“两只老虎”
