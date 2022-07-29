@@ -19,5 +19,6 @@ https://www.bilibili.com/video/BV1nG411h7pE
 
 还在整理，目前仅为自己参考所用。
 
-[notes.js](./notes.js) [chords.js](./chords.js)：帮助把乐谱转换成舵机操作代码
-
+- [./notes.js](./notes.js) [./chords.js](./chords.js)：帮助把乐谱转换成舵机操作代码
+- [./fen_fen_zhong.ino](./fen_fen_zhong.ino): 弹奏“分分钟需要你”
+- [./two_tigers.ino](./two_tigers.ino): 弹奏“两只老虎”
